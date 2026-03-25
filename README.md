@@ -18,6 +18,6 @@
 <b>Некоторые породы: ландшские, итальянские белые, холмогорские, китайские, горьковские, кубанские, тулузские и др.</b>
 <center><img src="C:\Users\Sofja\Desktop\1-1-4.jpg" width="400" height="500" border=10></center>
 Этот вопрос волнует многих. Нажми на ссылку и посмотри!
-<h3><a href="C:\Users\Elizaveta\Desktop\Gose\Suv.jpg">Гусь или петух?</a></h3>
+<h3><a href="C:\Users\Sofja\Desktop\Portrait-of-Count-Alexander-Suvorov.jpeg">Гусь или петух?</a></h3>
 </body>
 </html>
